@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="teatimer" device="LCMXO2-256HC-4SG32C" default_implementation="teatimer">
+    <Options/>
+    <Implementation title="teatimer" dir="teatimer" description="teatimer" synthesis="lse" default_strategy="Area">
+        <Options def_top="teatimer_top"/>
+        <Source name="teatimer.v" type="Verilog" type_short="Verilog">
+            <Options top_module="teatimer_top"/>
+        </Source>
+        <Source name="teatimer.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+    </Implementation>
+</BaliProject>

@@ -1,0 +1,6 @@
+*
+!*.brd
+!*.sch
+!*.png
+!gerbers
+!gerbers/*

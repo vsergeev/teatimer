@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.v
+!*.ldf
+!*.lpf
+!teatimer.jed
