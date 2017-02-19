@@ -2,6 +2,12 @@
 
 A simple kitchen timer implemented in digital logic on a Lattice MachXO2 CPLD.
 
+[![](images/front.jpg)](https://raw.githubusercontent.com/vsergeev/teatimer/master/images/front.jpg)
+[![](images/back.jpg)](https://raw.githubusercontent.com/vsergeev/teatimer/master/images/back.jpg)
+[![](images/running.jpg)](https://raw.githubusercontent.com/vsergeev/teatimer/master/images/running.jpg)
+
+(It's brighter in person.)
+
 ## Details
 
 * Features
